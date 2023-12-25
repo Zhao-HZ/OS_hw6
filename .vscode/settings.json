@@ -3,6 +3,10 @@
         "*.c": "c",
         "*.asm": "assembly",
         "stdio.h": "c",
-        "command.h": "c"
+        "command.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
     }
 }
